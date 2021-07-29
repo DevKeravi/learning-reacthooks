@@ -1,3 +1,4 @@
+import { useTabs } from "./useTabs/useTabs";
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
