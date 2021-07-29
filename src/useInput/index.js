@@ -33,5 +33,5 @@ const App = () => {
   );
 };
 
-const rootElement = ducument.getElmentbyId("root");
+const rootElement = document.getElmentbyId("root");
 ReactDOM.render(<App />, rootElement);
